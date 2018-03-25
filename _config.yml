@@ -5,5 +5,5 @@ description: Ph.D. Candidate in the Department of Linguistics - uOttawa
 github_username:  felixdtrudel
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 theme: jekyll-theme-minimal
