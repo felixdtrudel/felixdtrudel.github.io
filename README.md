@@ -1,8 +1,8 @@
-## Hello, world!
+Please navigate my new website using the following links:
 
-More information will be uploaded here soon.
+[About me](felixdtrudel.github.io/about)
 
-
+[Research](felixdtrudel.github.io/research)
 
 
 
