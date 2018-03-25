@@ -2,6 +2,19 @@
 layout: default
 ---
 
+# Welcome
+
+### Please navigate my new website using the following links:
+
+[About me](/about.md)
+
+[Research](/research.md)
+
+[Teaching and workshops](/teaching.md)
+
+[Resources and links](/resources.md)
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
