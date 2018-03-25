@@ -27,14 +27,14 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 
 <h3>Publication</h3>
 
-*Desmeules-Trudel, F.*, & Brunelle, M. (under review). Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. Manuscript submitted to the Journal of Phonetics.
+**Desmeules-Trudel, F.**, & Brunelle, M. (under review). Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. Manuscript submitted to the Journal of Phonetics.
 
-Zamuner, T. S., Moore, C. E., & *Desmeules-Trudel, F.* (2016). Toddlers’ sensitivity to within word coarticulation during spoken word recognition: Developmental differences in lexical competition. Journal of Experimental Child Psychology, 152, 136-148.
+Zamuner, T. S., Moore, C. E., & **Desmeules-Trudel, F.** (2016). Toddlers’ sensitivity to within word coarticulation during spoken word recognition: Developmental differences in lexical competition. Journal of Experimental Child Psychology, 152, 136-148.
 
-*Desmeules-Trudel, F.* (2015). The aerodynamics of vowel nasality and nasalization in Brazilian Portuguese. In The Scottish Consortium for ICPhS 2015 (ed.), Proceedings of the 18th International Congress of Phonetic Sciences, Glasgow, UK. Paper number 0769.
+**Desmeules-Trudel, F.** (2015). The aerodynamics of vowel nasality and nasalization in Brazilian Portuguese. In The Scottish Consortium for ICPhS 2015 (ed.), Proceedings of the 18th International Congress of Phonetic Sciences, Glasgow, UK. Paper number 0769.
 
-*Desmeules-Trudel, F.* (2015). Propriétés aérodynamiques des voyelles nasales et potentiellement nasalisées en français québécois [_Aerodynamic properties of Quebecois French nasal and potentially nasalized vowels_]. In Vinerte, S. (ed.), Proceedings of the 2015 Annual Conference of the Canadian Linguistic Association, Ottawa, ON.
+**Desmeules-Trudel, F.** (2015). Propriétés aérodynamiques des voyelles nasales et potentiellement nasalisées en français québécois [_Aerodynamic properties of Quebecois French nasal and potentially nasalized vowels_]. In Vinerte, S. (ed.), Proceedings of the 2015 Annual Conference of the Canadian Linguistic Association, Ottawa, ON.
 
-*Desmeules-Trudel, F.* (2015). Perception of Québec French nasal vowels by Brazilian learners: A pilot study. Langues et linguistique, 35, 40-54.
+**Desmeules-Trudel, F.** (2015). Perception of Québec French nasal vowels by Brazilian learners: A pilot study. Langues et linguistique, 35, 40-54.
 
 [Back to homepage](https://felixdtrudel.github.io/index.html)
