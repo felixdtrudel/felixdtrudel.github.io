@@ -2,7 +2,8 @@
 
 ### Please navigate my new website using the following links:
 
-[About me](felixdtrudel.github.io/about)
+[About me](/about)
 
-[Research](felixdtrudel.github.io/research)
+[Research](/research)
 
+[Teaching and workshops](/teaching)
