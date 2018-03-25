@@ -7,3 +7,5 @@
 [Research](/research.md)
 
 [Teaching and workshops](/teaching.md)
+
+[Resources and links](/resources.md)
