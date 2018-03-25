@@ -5,7 +5,6 @@ nav: true
 
 Coming soon!
 
-[Back to homepage](felixdtrudel.github.io)
 
 ### I will include some codes here if necessary
 
