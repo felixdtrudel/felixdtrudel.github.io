@@ -25,7 +25,7 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
   - With [Dr. Marc Brunelle](http://aix1.uottawa.ca/~mbrunell/) at the [SPL](http://artsites.uottawa.ca/spl-lss/en/)
   - See Desmeules-Trudel and Brunelle (under review) below
 
-<h3>Publication</h3>
+<h3>Publications</h3>
 
 **Desmeules-Trudel, F.**, & Brunelle, M. (under review). Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. Manuscript submitted to the Journal of Phonetics.
 
