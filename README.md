@@ -2,8 +2,8 @@
 
 ### Please navigate my new website using the following links:
 
-[About me](/about)
+[About me](/about.md)
 
-[Research](/research)
+[Research](/research.md)
 
-[Teaching and workshops](/teaching)
+[Teaching and workshops](/teaching.md)
