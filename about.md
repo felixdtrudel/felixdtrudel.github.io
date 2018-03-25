@@ -5,4 +5,4 @@ nav: true
 
 More information about me coming soon
 
-[Back to homepage](https://felixdtrudel.github.io)
+[Back to homepage](https://felixdtrudel.github.io/index.html)
