@@ -1,4 +1,6 @@
-Please navigate my new website using the following links:
+# Welcome
+
+### Please navigate my new website using the following links:
 
 [About me](felixdtrudel.github.io/about)
 
