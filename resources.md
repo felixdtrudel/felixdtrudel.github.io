@@ -2,7 +2,7 @@
 <h3>Laboratory affiliations</h3>
 *   [Centre for Child Language Research](http://artsites.uottawa.ca/cclr/en/)
 *   [uOttawa Living Lab](https://uottawalivinglab.weebly.com)
-*   [Souns Patterns Laboratory](http://artsites.uottawa.ca/spl-lss/en/)
+*   [Sound Patterns Laboratory](http://artsites.uottawa.ca/spl-lss/en/)
 *   [ERPLing Laboratory](http://artsites.uottawa.ca/erplinglab/en/about-2/)
 
 <h3>Linguistics associations memberships</h3>
