@@ -4,14 +4,10 @@ layout: default
 
 # Welcome
 
-### Please navigate my new website using the following links:
+### Please navigate my new website using the links on the left handside
 
-[About me](/about.md)
+You will find information about me and my research interests, teaching and workshops, and interesting links (uOttawa laboratories, associations, etc.)
 
-[Research](/research.md)
-
-[Teaching and workshops](/teaching.md)
-
-[Resources and links](/resources.md)
+Feel free to [contact me](mailto::fdesm014@uottawa.ca)!
 
 
