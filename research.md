@@ -5,4 +5,4 @@ nav: true
 
 Coming soon!
 
-[Back to home](felixdtrudel.github.io)
+[Back to homepage](felixdtrudel.github.io)
