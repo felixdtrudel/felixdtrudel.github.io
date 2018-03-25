@@ -17,8 +17,8 @@
       <header>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <a href="{{ site.github.url }}"> <h1>{{ "About" | default: site.github.repository_name }}</h1> </a>
 
-        <a href="{{ felixdtrudel.github.io/about.html }}"> <h3>{{ About | default: felixdtrudel.github.io/about.html }}</h3> </a>
       </header>
       <section>
 
@@ -27,7 +27,7 @@
       </section>
       <footer>
         {% if site.github.is_user_page %}
-        <p>This website is maintained by Félix Desmeules-Trudel!</p>
+        <p>This website is maintained by Félix Desmeules-Trudel</p>
         {% endif %}
       </footer>
     </div>
