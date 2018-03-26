@@ -13,7 +13,7 @@
 *   [Canadian Linguistics Association](http://cla-acl.ca)
 *   [Association for Laboratory Phonology](https://labphon.org)
 
-<h3>Scientific initiatives</h3> (that are worth looking at!)
+<h3>Scientific communication initiative (that is worth looking at!)</h3>
 *   [#barbarplots](https://barbarplots.github.io)
 
 [Back to homepage](https://felixdtrudel.github.io/index.html)
