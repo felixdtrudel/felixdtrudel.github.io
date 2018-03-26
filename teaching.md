@@ -22,7 +22,7 @@ nav: true
   - LIN1720 Les sons du langage [_The Sounds of Language_] (Dr. Kathleen Brannen)
   - LIN4726 Acoustique de la parole [_Speech Acoustics_] ([Dr. Marc Brunelle](http://aix1.uottawa.ca/~mbrunell/))
 
--Université Laval
+- Université Laval
   - French as a L2 for immigrants (Québec Ministry of Immigration, [Language School](https://www.elul.ulaval.ca/nos-cours/francisation/))
   - LNG2000 Phonologie I [_Phonology I_] ([Dr. Carole Paradis](http://www.lli.ulaval.ca/le-departement/personnel/professeurs/paradis-carole/))
   - LNG3100 Phonologie II [_Phonology II_] ([Dr. Carole Paradis](http://www.lli.ulaval.ca/le-departement/personnel/professeurs/paradis-carole/))
