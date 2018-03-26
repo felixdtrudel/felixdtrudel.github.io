@@ -1,11 +1,11 @@
 <h1>Resources and links</h1>
-<h3>Laboratory affiliations</h3> (current)
+<h3>Laboratory affiliations (current)</h3>
 *   [Centre for Child Language Research](http://artsites.uottawa.ca/cclr/en/)
 *   [uOttawa Living Lab](https://uottawalivinglab.weebly.com)
 *   [Sound Patterns Laboratory](http://artsites.uottawa.ca/spl-lss/en/)
 *   [ERPLing Laboratory](http://artsites.uottawa.ca/erplinglab/en/about-2/)
 
-<h3>Laboratory affiliations</h3> (former)
+<h3>Laboratory affiliations (former)</h3>
 *   [Laboratoire de phonétique](https://www.phonetique.ulaval.ca)
 *   [CoPho Project](http://www.lli.ulaval.ca/recherche/groupes-et-laboratoires/projet-copho-contraintes-en-phonologie/) (website in French)
 
