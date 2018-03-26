@@ -5,7 +5,7 @@
 *   [Sound Patterns Laboratory](http://artsites.uottawa.ca/spl-lss/en/)
 *   [ERPLing Laboratory](http://artsites.uottawa.ca/erplinglab/en/about-2/)
 
-<h3>Laboratory affiliations</h3> (current)
+<h3>Laboratory affiliations</h3> (former)
 *   [Laboratoire de phonétique](https://www.phonetique.ulaval.ca)
 *   [CoPho Project](http://www.lli.ulaval.ca/recherche/groupes-et-laboratoires/projet-copho-contraintes-en-phonologie/) (website in French)
 
