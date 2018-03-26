@@ -27,11 +27,9 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 
 <h3>Publications</h3>
 
-**Desmeules-Trudel, F.**, & Brunelle, M. (under review). Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. Manuscript submitted to the _Journal of Phonetics_.
-  - [Contact me](mailto:fdesm014@uottawa.ca)
+**Desmeules-Trudel, F.**, & Brunelle, M. (under review). Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. Manuscript submitted to the _Journal of Phonetics_. [Contact me](mailto:fdesm014@uottawa.ca)
   
-Zamuner, T. S., Moore, C. E., & **Desmeules-Trudel, F.** (2016). Toddlers’ sensitivity to within word coarticulation during spoken word recognition: Developmental differences in lexical competition. _Journal of Experimental Child Psychology_, _152_, 136-148.
-  - [Contact me](mailto:fdesm014@uottawa.ca)
+Zamuner, T. S., Moore, C. E., & **Desmeules-Trudel, F.** (2016). Toddlers’ sensitivity to within word coarticulation during spoken word recognition: Developmental differences in lexical competition. _Journal of Experimental Child Psychology_, _152_, 136-148. [Contact me](mailto:fdesm014@uottawa.ca)
 
 **Desmeules-Trudel, F.** (2015). [The aerodynamics of vowel nasality and nasalization in Brazilian Portuguese](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0769.pdf). In The Scottish Consortium for ICPhS 2015 (ed.), _Proceedings of the 18th International Congress of Phonetic Sciences_, Glasgow, UK. Paper number 0769.
 
