@@ -4,7 +4,7 @@ layout: default
 
 # Welcome
 
-### Please navigate my new website using the links on the left handside
+### Please navigate my new website using the links!
 
 You will find information about me and my research interests, teaching and workshops, and interesting links (uOttawa laboratories, associations, etc.)
 
