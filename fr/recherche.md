@@ -16,18 +16,18 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 - Développement et acquisition du langage
 
 <h3>Projets spécifiques</h3>
-- Reconnaissance de mots auditifs et détails phonétique en français L1 et L2
+- Reconnaissance de mots auditifs et détails phonétiques en français L1 et L2
   - Thèse de doctorat
 - Traitement de la coarticulation chez les enfant monolingues et bilingues
   - Avec [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) au [CRLE](http://artsites.uottawa.ca/cclr/fr/) et au [Labo en action](https://laboenactionuottawa.weebly.com)
   - Voir Zamuner, Moore et Desmeules-Trudel (2016) ci-bas
 - Restrictions phonotactiques et implémentation de la coarticulation
-  - Avec [M. Marc Brunelle](http://aix1.uottawa.ca/%7embrunell/indexF.htm) at the [SPL](http://artsites.uottawa.ca/spl-lss/fr/)
+  - Avec [M. Marc Brunelle](http://aix1.uottawa.ca/%7embrunell/indexF.htm) au [LSS](http://artsites.uottawa.ca/spl-lss/fr/)
   - Voir Desmeules-Trudel and Brunelle (en révision) ci-bas
 
 <h3>Publications</h3>
 
-**Desmeules-Trudel, F.**, et Brunelle, M. (sous révision). Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. Manuscrit soumis au _Journal of Phonetics_. [Me contacter](mailto:fdesm014@uottawa.ca)
+**Desmeules-Trudel, F.**, et Brunelle, M. (en révision). Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. Manuscrit soumis au _Journal of Phonetics_. [Me contacter](mailto:fdesm014@uottawa.ca)
   
 Zamuner, T. S., Moore, C. E., et **Desmeules-Trudel, F.** (2016). Toddlers’ sensitivity to within word coarticulation during spoken word recognition: Developmental differences in lexical competition. _Journal of Experimental Child Psychology_, _152_, 136-148. [Me contacter](mailto:fdesm014@uottawa.ca)
 
