@@ -9,3 +9,5 @@ title: Bienvenue
 Vous trouverez de l'information à propos de moi et de mes intérêts de recherche, de mes expériences en enseignement et en formation, ainsi que des liens intéressant (laboratoires de l'uOttawa, associations, etc.)
 
 N'hésitez pas à [me contacter](mailto:fdesm014@uottawa.ca)!
+
+Back to [English](https://felixdtrudel.github.io)
