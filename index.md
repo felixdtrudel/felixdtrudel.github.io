@@ -10,4 +10,4 @@ You will find information about me and my research interests, teaching and works
 
 Feel free to [contact me](mailto:fdesm014@uottawa.ca)!
 
-
+En [français](https://felixdtrudel.github.io/fr/index.html)
