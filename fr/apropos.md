@@ -17,4 +17,4 @@ Vous pouvez télécharger mon CV académique complet [ici](https://felixdtrudel.
 
 [De retour à la page d'accueil](https://felixdtrudel.github.io/fr/index.html)
 
-Back to [English](https://felixdtrudel.github.io/about.html)
+In [English](https://felixdtrudel.github.io/about.html)
