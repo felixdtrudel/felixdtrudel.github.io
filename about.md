@@ -16,3 +16,5 @@ In the last few years, I have been lucky enough to travel for training in São P
 You can download my full academic CV [here](https://felixdtrudel.github.io/CVeng.pdf).
 
 [Back to homepage](https://felixdtrudel.github.io/index.html)
+
+En [français](https://felixdtrudel.github.io/fr/apropos.html)
