@@ -16,9 +16,9 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 - Développement et acquisition du langage
 
 <h3>Projets spécifiques</h3>
-- Reconnaissance de mots auditifs et détails phonétiques en français L1 et L2
+- Reconnaissance de mots et détails phonétiques en L1 et L2
   - Thèse de doctorat
-- Traitement de la coarticulation chez les enfant monolingues et bilingues
+- Traitement de la coarticulation chez les enfant en L1 et L2
   - Avec [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) au [CRLE](http://artsites.uottawa.ca/cclr/fr/) et au [Labo en action](https://laboenactionuottawa.weebly.com)
   - Voir Zamuner, Moore et Desmeules-Trudel (2016) ci-bas
 - Restrictions phonotactiques et implémentation de la coarticulation
