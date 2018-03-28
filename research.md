@@ -38,3 +38,5 @@ Zamuner, T. S., Moore, C. E., & **Desmeules-Trudel, F.** (2016). Toddlers’ sen
 **Desmeules-Trudel, F.** (2015). [Perception of Québec French nasal vowels by Brazilian learners: A pilot study](http://www.lli.ulaval.ca/fileadmin/llt/fichiers/recherche/revue_LL/vol35/F.Desmeules-Trudel.pdf). _Langues et linguistique_, _35_, 40-54.
 
 [Back to homepage](https://felixdtrudel.github.io/index.html)
+
+En [français](https://felixdtrudel.github.io/fr/recherche.html)
