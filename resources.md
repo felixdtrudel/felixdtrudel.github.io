@@ -3,7 +3,7 @@
 *   [Centre for Child Language Research](http://artsites.uottawa.ca/cclr/en/)
 *   [uOttawa Living Lab](https://uottawalivinglab.weebly.com)
 *   [Sound Patterns Laboratory](http://artsites.uottawa.ca/spl-lss/en/)
-*   [ERPLing Laboratory](http://artsites.uottawa.ca/erplinglab/en/about-2/)
+*   [ERPLing Laboratory](http://artsites.uottawa.ca/erplinglab/en/)
 
 <h3>Laboratory affiliations (former)</h3>
 *   [Laboratoire de phonétique](https://www.phonetique.ulaval.ca)
