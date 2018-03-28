@@ -2,7 +2,7 @@
 <h3>Affiliations (courantes)</h3>
 *   [Centre de recherche sur le langage des enfants](http://artsites.uottawa.ca/cclr/fr/)
 *   [Labo en action uOttawa](https://laboenactionuottawa.weebly.com)
-*   [Sound Patterns Laboratory](http://artsites.uottawa.ca/spl-lss/fr/)
+*   [Laboratoire des structures sonores](http://artsites.uottawa.ca/spl-lss/fr/)
 *   [Laboratoire PÉLing](http://artsites.uottawa.ca/erplinglab/en/)
 
 <h3>Affiliations (passées)</h3>
