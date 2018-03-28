@@ -20,7 +20,7 @@ nav: true
   - LIN2355 Second Language Acquisition ([Mme Laura Sabourin](http://artsites.uottawa.ca/laurasabourin/))
   - LIN4735 Physiologie de la parole (M. Ian Mackay)
   - LIN1720 Les sons du langage (Mme Kathleen Brannen)
-  - LIN4726 Acoustique de la parole ([M. Marc Brunelle](http://aix1.uottawa.ca/~mbrunell/))
+  - LIN4726 Acoustique de la parole ([M. Marc Brunelle](http://aix1.uottawa.ca/%7embrunell/indexF.htm))
 
 - Université Laval
   - Francisation des immigrants (Ministère de l'immigration du Québec, [École de langues](https://www.elul.ulaval.ca/nos-cours/francisation/))
