@@ -32,3 +32,5 @@ nav: true
 - [R Workshop](https://felixdtrudel.github.io/Rworkshop.html)
 
 [Back to homepage](https://felixdtrudel.github.io/index.html)
+
+En [français](https://felixdtrudel.github.io/fr/enseignement.html)
