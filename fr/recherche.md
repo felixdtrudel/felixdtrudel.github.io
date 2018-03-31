@@ -7,7 +7,7 @@ nav: true
 
 Vous trouverez ci-bas une liste de mes publications. Veuillez [me contacter](mailto:fdesm014@uottawa.ca) si vous aimeriez obtenir une copie électronique d'un de mes articles non disponibles en accès libre.
 
-Une liste complète et détaillée de mes présentations se retrouve sur mon [CV](https://felixdtrudel.github.io/CVeng.pdf).
+Une liste complète et détaillée de mes présentations se retrouve sur mon [CV](https://felixdtrudel.github.io/CVfr.pdf).
 
 <h3>Intérêts</h3>
 - Psycholinguistique
