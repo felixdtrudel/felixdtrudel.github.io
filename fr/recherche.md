@@ -27,7 +27,7 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 
 <h3>Publications</h3>
 
-**Desmeules-Trudel, F.**, & Zamuner, T. S. (soumis). Gradient patterns of spoken word recognition and processing of phonetic details. Manuscrit soumis à _Attention, Perception, & Psychophysics_. [Contact me](mailto:fdesm014@uottawa.ca).
+**Desmeules-Trudel, F.**, & Zamuner, T. S. (soumis). Gradient patterns of spoken word recognition and processing of phonetic details. Manuscrit soumis à _Attention, Perception, & Psychophysics_. [Me contacter](mailto:fdesm014@uottawa.ca).
 
 **Desmeules-Trudel, F.**, et Brunelle, M. (en révision). Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. Manuscrit soumis au _Journal of Phonetics_. [Me contacter](mailto:fdesm014@uottawa.ca).
   
