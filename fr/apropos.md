@@ -13,7 +13,7 @@ Je suis originaire de la ville de [Québec](https://fr.wikipedia.org/wiki/Québe
 
 Au cours des dernières années, j'ai eu la chance de pouvoir suivre des formations à São Paulo (Brésil), Nimègue (Pays-Bas), Edmonton (Canada), et Utrecht (Netherlands), en plus de voyages pour conférences à Moncton (Canada), Glasgow (Écosse), Ithaca (ÉUA), Toronto (Canada), et New York (ÉUA). Je me rendrai également à Lisbonne (Portugal) au début de l'été 2018.
 
-Vous pouvez télécharger mon CV académique complet [ici](https://felixdtrudel.github.io/CVeng.pdf).
+Vous pouvez télécharger mon CV académique complet [ici](https://felixdtrudel.github.io/CVfr.pdf).
 
 [De retour à la page d'accueil](https://felixdtrudel.github.io/fr/index.html)
 
