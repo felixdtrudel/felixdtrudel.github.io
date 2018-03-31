@@ -27,7 +27,7 @@ nav: true
   - LNG2000 Phonologie I ([Mme Carole Paradis](http://www.lli.ulaval.ca/le-departement/personnel/professeurs/paradis-carole/))
   - LNG3100 Phonologie II ([Mme Carole Paradis](http://www.lli.ulaval.ca/le-departement/personnel/professeurs/paradis-carole/))
  
-<h3>Workshops</h3>
+<h3>Formations</h3>
 
 - À venir!
 
