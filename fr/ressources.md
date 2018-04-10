@@ -18,4 +18,4 @@
 
 [De retour à la page d'accueil](https://felixdtrudel.github.io/fr/index.html)
 
-In [English](https://felixdtrudel.github.io/resources.html
+In [English](https://felixdtrudel.github.io/resources.html)
