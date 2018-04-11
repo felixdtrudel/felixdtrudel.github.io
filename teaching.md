@@ -29,7 +29,7 @@ nav: true
  
 <h3>Workshops</h3>
 
-- [R Workshop](https://felixdtrudel.github.io/Rworkshop.html)
+- Coming soon!
 
 [Back to homepage](https://felixdtrudel.github.io/index.html)
 
