@@ -5,7 +5,7 @@ nav: true
 
 <h1>About</h1>
 
-I am currently completing my Ph.D. program under the supervision of [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) in Ottawa, ON, Canada.
+I am currently completing my Ph.D. program under the supervision of [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) in Ottawa, ON, Canada. Starting September 1<SUP>st</SUP>, 2018, I will be working at the University of Western Ontario's [Language, Reading, and Cognitive Neuroscience Lab](http://www.psychology.uwo.ca/lrcn/index.html), directed by [Dr. Marc Joanisse](http://publish.uwo.ca/~marcj/), as a Postdoctoral Fellow from the [Québécois Research Funds - Society and Culture](http://www.frqsc.gouv.qc.ca/en/accueil).
 
 My research focuses on **speech, phonological, and lexical processing in monolinguals and bilinguals**. I have worked with adults and children using a variety of methods such as EEG and standard perception tests, but my main expertise is in **eye tracking**. My past research has also investigated **speech production**, focusing on **vowel nasalization in French and Portuguese** using acoustics and airflow measurements.
 
