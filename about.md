@@ -17,9 +17,7 @@ I am originally from [Québec City](https://en.wikipedia.org/wiki/Quebec_City), 
 
 In the last few years, I have been lucky enough to travel for training in São Paulo (Brazil), Nijmegen (Netherlands), Edmonton (Canada), and Utrecht (Netherlands), in addition to conference trips in Moncton (Canada), Glasgow (Scotland), Ithaca (USA), Toronto (Canada), and New York City (USA). I will be going to Lisbon (Portugal) at the beginning of the 2018 summer.
 
-Look at these eye tracking trials!
-
-<img src="felixdtrudel.github.io/imageresources/VWP1.gif" alt="VWP1"> <img src="felixdtrudel.github.io/imageresources/VWP2.gif" alt="VWP2"> <img src="felixdtrudel.github.io/imageresources/VWP3.gif" alt="VWP3">
+<img src="felixdtrudel.github.io/imageresources/VWP1.gif" alt="VWP1" width="160" height="120"> <img src="felixdtrudel.github.io/imageresources/VWP2.gif" alt="VWP2" width="160" height="120"> <img src="felixdtrudel.github.io/imageresources/VWP3.gif" alt="VWP3" width="160" height="120">
 
 You can download my full academic CV [here](https://felixdtrudel.github.io/CVeng.pdf).
 
