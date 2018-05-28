@@ -19,17 +19,17 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 - Spoken word recognition and phonetic detail in L1 and L2 French
   - Dissertation work
 - Coarticulation processing in monolingual and bilingual children
-  - With [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) at the [CCLR](http://artsites.uottawa.ca/cclr/) and the [Living Lab](https://uottawalivinglab.weebly.com)
+  - With [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) at the [CCLR](http://cclren.weebly.com/) and the [Living Lab](https://uottawalivinglab.weebly.com)
   - See Zamuner, Moore and Desmeules-Trudel (2016) below
 - Phonotactic restrictions and coarticulation implementation
   - With [Dr. Marc Brunelle](http://aix1.uottawa.ca/~mbrunell/) at the [SPL](http://artsites.uottawa.ca/spl-lss/en/)
-  - See Desmeules-Trudel and Brunelle (under review) below
+  - See Desmeules-Trudel and Brunelle (2018) below
 
 <h3>Publications</h3>
 
-**Desmeules-Trudel, F.**, & Zamuner, T. S. (submitted). Gradient patterns of spoken word recognition and processing of phonetic details. Manuscript submitted to _Attention, Perception, & Psychophysics_. [Contact me](mailto:fdesm014@uottawa.ca).
+**Desmeules-Trudel, F.**, & Zamuner, T. S. (under review). Gradient patterns of spoken word recognition and processing of phonetic details. Manuscript submitted to _Attention, Perception, & Psychophysics_. [Contact me](mailto:fdesm014@uottawa.ca).
 
-**Desmeules-Trudel, F.**, & Brunelle, M. (under review). Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. Manuscript submitted to the _Journal of Phonetics_. [Contact me](mailto:fdesm014@uottawa.ca).
+**Desmeules-Trudel, F.**, & Brunelle, M. (under review). [Phonotactic restrictions condition the realization of vowel nasality contrasts and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese](https://authors.elsevier.com/a/1X7XW_2AvCZbsk). _Journal of Phonetics_, _69_, 43-61.
   
 Zamuner, T. S., Moore, C. E., & **Desmeules-Trudel, F.** (2016). Toddlers’ sensitivity to within word coarticulation during spoken word recognition: Developmental differences in lexical competition. _Journal of Experimental Child Psychology_, _152_, 136-148. [Contact me](mailto:fdesm014@uottawa.ca).
 
