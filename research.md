@@ -29,7 +29,7 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 
 **Desmeules-Trudel, F.**, & Zamuner, T. S. (under review). Gradient patterns of spoken word recognition and processing of phonetic details. Manuscript submitted to _Attention, Perception, & Psychophysics_. [Contact me](mailto:fdesm014@uottawa.ca).
 
-**Desmeules-Trudel, F.**, & Brunelle, M. (under review). [Phonotactic restrictions condition the realization of vowel nasality and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese](https://authors.elsevier.com/a/1X7XW_2AvCZbsk). _Journal of Phonetics_, _69_, 43-61.
+**Desmeules-Trudel, F.**, & Brunelle, M. (2018). [Phonotactic restrictions condition the realization of vowel nasality and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese](https://authors.elsevier.com/a/1X7XW_2AvCZbsk). _Journal of Phonetics_, _69_, 43-61.
   
 Zamuner, T. S., Moore, C. E., & **Desmeules-Trudel, F.** (2016). Toddlers’ sensitivity to within word coarticulation during spoken word recognition: Developmental differences in lexical competition. _Journal of Experimental Child Psychology_, _152_, 136-148. [Contact me](mailto:fdesm014@uottawa.ca).
 
