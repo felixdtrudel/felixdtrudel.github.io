@@ -5,9 +5,9 @@ nav: true
 
 <h1>À propos</h1>
 
-Je complète présentement mon programme de doctorat sous la supervision de [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) à Ottawa, ON, Canada.
+Je suis présentement chercheur postdoctoral du [Fonds québécois de recherche - Société et Culture](http://www.frqsc.gouv.qc.ca/accueil) au laboratoire [Language, Reading, and Cognitive Neuroscience](http://www.psychology.uwo.ca/lrcn/index.html) (Département de psychologie || Institut Brain and Mind), dirigé par [M. Marc Joanisse](http://publish.uwo.ca/~marcj/), à l'Université Western Ontario, London, ON.  J'ai complété mon doctorat sous la supervision de [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) à Ottawa, ON.
 
-À partir du 1<SUP>er</SUP> septembre 2018, je travaillerai au laboratoire [Language, Reading, and Cognitive Neuroscience](http://www.psychology.uwo.ca/lrcn/index.html) de l'Université Western Ontario (Département de psychologie), dirigé par [M. Marc Joanisse](http://publish.uwo.ca/~marcj/), en tant que chercheur postdoctoral du [Fonds québécois de recherche - Société et Culture](http://www.frqsc.gouv.qc.ca/accueil).
+À partir du 1<SUP>er</SUP> septembre 2018, je travaillerai ), en tant que .
 
 Mes recherches se concentrent sur **le traitement de la parole, des aspects phonologiques et lexicaux chez les monolingues et les bilingues**. J'ai travaillé avec des participants adultes et enfants, et utilisé une variété de méthodes expérimentales comme l'EEG et les tests standard de perception, mais mon expertise principale est en **oculométrie** (_eye tracking_).
 
@@ -17,7 +17,7 @@ Mes recherches se sont aussi concentrées sur la **production de la parole**, pl
 
 Je suis originaire de la ville de [Québec](https://fr.wikipedia.org/wiki/Québec_(ville)), une des plus vieilles villes francophones au Canada et la capitale de la province, qui se trouve à être la dernière ville fortifiée et toujours habitée en Amérique du Nord. J'ai complété mon baccalauréat et ma maîtrise à l'Université Laval au [Département de langues, linguistique et traduction](http://www.lli.ulaval.ca) sous la supervision de [Mme Johanna-Pascale Roy](https://www.phonetique.ulaval.ca).
 
-Au cours des dernières années, j'ai eu la chance de pouvoir suivre des formations à São Paulo (Brésil), Nimègue (Pays-Bas), Edmonton (Canada), et Utrecht (Netherlands), en plus de voyages pour conférences à Moncton (Canada), Glasgow (Écosse), Ithaca (ÉUA), Toronto (Canada), et New York (ÉUA). Je me rendrai également à Lisbonne (Portugal) au début de l'été 2018.
+Au cours des dernières années, j'ai eu la chance de pouvoir suivre des formations à São Paulo (Brésil), Nimègue (Pays-Bas), Edmonton (Canada), et Utrecht (Netherlands), en plus de voyages pour conférences à Moncton (Canada), Glasgow (Écosse), Ithaca (ÉUA), Toronto (Canada), New York (ÉUA), et Lisbonne (Portugal).
 
 Vous pouvez télécharger mon CV académique complet [ici](https://felixdtrudel.github.io/CVfr.pdf).
 
