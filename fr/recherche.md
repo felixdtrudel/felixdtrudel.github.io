@@ -18,7 +18,7 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 <h3>Projets spécifiques</h3>
 
 - Apprentissage des mots et perception de la parole avec des sons étrangers
-  -Avec [M. Marc Joanisse](http://publish.uwo.ca/~marcj/) au [LRCN](http://www.psychology.uwo.ca/lrcn/)
+  - Avec [M. Marc Joanisse](http://publish.uwo.ca/~marcj/) au [LRCN](http://www.psychology.uwo.ca/lrcn/)
 
 - Reconnaissance de mots et détails phonétiques en L1 et L2 (thèse de doctorat)
 
