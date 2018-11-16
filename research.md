@@ -16,6 +16,7 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 - Language development and acquisition
 
 <h3>Specific projects</h3>
+
 - Word learning and speech perception with foreign phonetic material
   - With [Dr. Marc Joanisse](http://publish.uwo.ca/~marcj/) at the [LRCN](http://www.psychology.uwo.ca/lrcn/)
 
