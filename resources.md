@@ -1,5 +1,5 @@
 <h1>Resources and links</h1>
-<h3>Laboratory affiliations (current)</h3>
+<h3>Laboratory affiliation (current)</h3>
 *   [Language, Reading, and Cognitive Neuroscience Lab](http://www.psychology.uwo.ca/lrcn/index.html) 
 
 <h3>Laboratory affiliations (former)</h3>
