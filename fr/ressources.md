@@ -1,5 +1,5 @@
 <h1>Ressources et liens</h1>
-<h3>Affiliations (courantes)</h3>
+<h3>Affiliation (courante)</h3>
 *   [Laboratoire _Language, Reading, and Cognitive Neuroscience_](http://www.psychology.uwo.ca/lrcn/index.html) 
 
 <h3>Affiliations (passées)</h3>
@@ -10,7 +10,7 @@
 *   [Laboratoire de phonétique](https://www.phonetique.ulaval.ca)
 *   [CoPho Project](http://www.lli.ulaval.ca/recherche/groupes-et-laboratoires/projet-copho-contraintes-en-phonologie/)
 
-<h3>Association</h3>
+<h3>Associations</h3>
 *   [Association canadienne de linguistique](http://cla-acl.ca)
 *   [Association for Laboratory Phonology](https://labphon.org)
 
