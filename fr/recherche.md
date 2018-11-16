@@ -16,12 +16,16 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 - Développement et acquisition du langage
 
 <h3>Projets spécifiques</h3>
+
 - Apprentissage des mots et perception de la parole avec des sons étrangers
   -Avec [M. Marc Joanisse](http://publish.uwo.ca/~marcj/) au [LRCN](http://www.psychology.uwo.ca/lrcn/)
+
 - Reconnaissance de mots et détails phonétiques en L1 et L2 (thèse de doctorat)
+
 - Traitement de la coarticulation chez les enfant en L1 et L2
   - Avec [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) au [CRLE](http://cclren.weebly.com/) et au [Labo en action](https://laboenactionuottawa.weebly.com)
   - Voir Zamuner, Moore et Desmeules-Trudel (2016) ci-bas
+
 - Flux d'air nasal et nasalisation de voyelles en français canadien et en portugais brésilien
   - Avec [M. Marc Brunelle](http://aix1.uottawa.ca/%7embrunell/indexF.htm) au [SPL](http://artsites.uottawa.ca/spl-lss/fr/)
   - Voir Desmeules-Trudel et Brunelle (2018) ci-bas
