@@ -18,10 +18,13 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 <h3>Specific projects</h3>
 - Word learning and speech perception with foreign phonetic material
   - With [Dr. Marc Joanisse](http://publish.uwo.ca/~marcj/) at the [LRCN](http://www.psychology.uwo.ca/lrcn/)
+
 - Spoken word recognition and phonetic detail in L1 and L2 French (dissertation)
+
 - Coarticulation processing in monolingual and bilingual children
   - With [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) at the [CCLR](http://cclren.weebly.com/) and the [Living Lab](https://uottawalivinglab.weebly.com)
   - See Zamuner, Moore and Desmeules-Trudel (2016) below
+
 - Nasal airflow of nasal and nasalized vowels in Canadian French and Brazilian Portuguese
   - With [Dr. Marc Brunelle](http://aix1.uottawa.ca/~mbrunell/) at the [SPL](http://artsites.uottawa.ca/spl-lss/en/)
   - See Desmeules-Trudel and Brunelle (2018) below
