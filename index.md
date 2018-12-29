@@ -4,7 +4,7 @@ layout: default
 
 # Welcome
 
-<IMG SRC=”https://felixdtrudel.github.io/Félix_headshot.jpg” ALIGN=”left” />
+<img src=”https://felixdtrudel.github.io/Félix_headshot.jpg” align=”left” />
 
 You will find information about me and my research interests, teaching and workshops, and interesting links 
 
