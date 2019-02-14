@@ -5,7 +5,7 @@ nav: true
 
 <h1>À propos</h1>
 
-Je suis présentement chercheur postdoctoral du [Fonds québécois de recherche - Société et Culture](http://www.frqsc.gouv.qc.ca/accueil) au laboratoire [_Language, Reading, and Cognitive Neuroscience_](http://www.psychology.uwo.ca/lrcn/index.html) (Département de psychologie et Institut _Brain and Mind_), dirigé par [M. Marc Joanisse](http://publish.uwo.ca/~marcj/), à l'Université Western Ontario, London, ON.  J'ai complété mon doctorat sous la supervision de [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) à Ottawa, ON.
+Je suis présentement chercheur postdoctoral du [Fonds de recherche du Québec - Société et Culture](http://www.frqsc.gouv.qc.ca/accueil) au laboratoire [_Language, Reading, and Cognitive Neuroscience_](http://www.psychology.uwo.ca/lrcn/index.html) (Département de psychologie et Institut _Brain and Mind_), dirigé par [M. Marc Joanisse](http://publish.uwo.ca/~marcj/), à l'Université Western, London, ON.  J'ai complété mon doctorat avec [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) à Ottawa, ON.
 
 Mes recherches se concentrent sur **le traitement de la parole, des aspects phonologiques et lexicaux chez les monolingues et les bilingues**. J'ai travaillé avec des participants adultes et enfants, et utilisé une variété de méthodes expérimentales comme l'EEG et les tests standard de perception, mais mon expertise principale est en **oculométrie** (_eye tracking_).
 
@@ -13,7 +13,7 @@ Mes recherches se concentrent sur **le traitement de la parole, des aspects phon
 
 Mes recherches se sont aussi concentrées sur la **production de la parole**, plus spécifiquement sur **la nasalisation des voyelles en français et en portugais**, en utilisant des méthodes d'analyse acoustique et de flux d'air.
 
-Je suis originaire de la ville de [Québec](https://fr.wikipedia.org/wiki/Québec_(ville)), une des plus vieilles villes francophones au Canada et la capitale de la province, qui se trouve à être la dernière ville fortifiée et toujours habitée en Amérique du Nord. J'ai complété mon baccalauréat et ma maîtrise à l'Université Laval au [Département de langues, linguistique et traduction](http://www.lli.ulaval.ca) sous la supervision de [Mme Johanna-Pascale Roy](https://www.phonetique.ulaval.ca).
+Je suis originaire de la ville de [Québec](https://fr.wikipedia.org/wiki/Québec_(ville)), une des plus vieilles villes francophones au Canada et la capitale de la province, qui se trouve à être la dernière ville fortifiée et toujours habitée en Amérique du Nord. J'ai complété mon baccalauréat et ma maîtrise à l'Université Laval au [Département de langues, linguistique et traduction](http://www.lli.ulaval.ca) avec [Mme Johanna-Pascale Roy](https://www.phonetique.ulaval.ca).
 
 Au cours des dernières années, j'ai eu la chance de pouvoir suivre des formations à São Paulo (Brésil), Nimègue (Pays-Bas), Edmonton (Canada), et Utrecht (Netherlands), en plus de voyages pour conférences à Moncton (Canada), Glasgow (Écosse), Ithaca (ÉUA), Toronto (Canada), New York (ÉUA), et Lisbonne (Portugal).
 
