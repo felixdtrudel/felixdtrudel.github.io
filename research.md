@@ -12,8 +12,7 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 <h3>Interests</h3>
 - Psycholinguistics
 - Phonetics and phonology
-- Second language acquisition
-- Language development and acquisition
+- First and second language acquisition
 
 <h3>Specific projects</h3>
 
@@ -21,9 +20,10 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
   - With [Dr. Marc Joanisse](http://publish.uwo.ca/~marcj/) at the [LRCN](http://www.psychology.uwo.ca/lrcn/)
 
 - Spoken word recognition and phonetic detail in L1 and L2 French (dissertation)
+  - See Desmeules-Trudel & Zamuner (in press) below
 
 - Coarticulation processing in monolingual and bilingual children
-  - With [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) at the [CCLR](http://cclren.weebly.com/) and the [Living Lab](https://uottawalivinglab.weebly.com)
+  - With [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) at the [CCLR](http://cclren.weebly.com/) and the [Living Lab](https://uottawalivinglab.weebly.com), and [Charlotte Moore](https://psychandneuro.duke.edu/people/charlotte-moore)
   - See Zamuner, Moore and Desmeules-Trudel (2016) below
 
 - Nasal airflow of nasal and nasalized vowels in Canadian French and Brazilian Portuguese
@@ -32,6 +32,8 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 
 <h3>Publications</h3>
 
+
+**Desmeules-Trudel, F.**, & Zamuner, T. S. (in press). Gradient and categorical patterns of spoken word recognition and processing of phonetic details. _Attention, Perception, & Psychophysics_. [Contact me](mailto:fdesmeul@uwo.ca).
 
 **Desmeules-Trudel, F.**, & Brunelle, M. (2018). Phonotactic restrictions condition the realization of vowel nasality and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. _Journal of Phonetics_, _69_, 43-61. [Contact me](mailto:fdesmeul@uwo.ca).
   
