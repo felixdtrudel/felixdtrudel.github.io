@@ -16,11 +16,11 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 
 <h3>Projets spécifiques</h3>
 
-- Apprentissage des mots et perception de la parole avec des sons étrangers
+- Apprentissage des mots et perception de la parole avec des voyelles non-natives
   - Avec [M. Marc Joanisse](http://publish.uwo.ca/~marcj/) au [LRCN](http://www.psychology.uwo.ca/lrcn/)
 
 - Reconnaissance de mots et détails phonétiques en L1 et L2 (thèse de doctorat)
-  - Voir Desmeules-Trudel et Zamuner (sous presse) ci-bas
+  - Voir Desmeules-Trudel et Zamuner (2019) ci-bas
 
 - Traitement de la coarticulation chez les enfant en L1 et L2
   - Avec [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) au [CRLE](http://cclren.weebly.com/) et au [Labo en action](https://laboenactionuottawa.weebly.com), et [Charlotte Moore](https://psychandneuro.duke.edu/people/charlotte-moore)
@@ -32,7 +32,7 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
   
 <h3>Publications</h3>
 
-**Desmeules-Trudel, F.**, et Zamuner, T. S. (sous presse). Gradient and categorical patterns of spoken word recognition and processing of phonetic details. _Attention, Perception, & Psychophysics_. [Me contacter](mailto:fdesmeul@uwo.ca).
+**Desmeules-Trudel, F.**, et Zamuner, T. S. (2019). Gradient and categorical patterns of spoken word recognition and processing of phonetic details. _Attention, Perception, & Psychophysics_. [Me contacter](mailto:fdesmeul@uwo.ca).
 
 **Desmeules-Trudel, F.**, et Brunelle, M. (2018). Phonotactic restrictions condition the realization of vowel nasality and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. _Journal of Phonetics_, _69_, 43-61. [Me contacter](mailto:fdesmeul@uwo.ca).
   
