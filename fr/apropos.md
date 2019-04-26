@@ -5,7 +5,7 @@ nav: true
 
 <h1>À propos</h1>
 
-Je suis présentement chercheur postdoctoral du [Fonds de recherche du Québec - Société et Culture](http://www.frqsc.gouv.qc.ca/accueil) au laboratoire [_Language, Reading, and Cognitive Neuroscience_](http://www.psychology.uwo.ca/lrcn/index.html) (Département de psychologie et Institut _Brain and Mind_), dirigé par [M. Marc Joanisse](http://publish.uwo.ca/~marcj/), à l'Université Western, London, ON.  J'ai complété mon doctorat avec [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) à Ottawa, ON.
+Je suis présentement chercheur postdoctoral du [Fonds de recherche du Québec - Société et Culture](http://www.frqsc.gouv.qc.ca/accueil) et du programme [BrainsCAN (Apogée Canada)](https://brainscan.uwo.ca/index.html) au laboratoire [_Language, Reading, and Cognitive Neuroscience_](http://www.psychology.uwo.ca/lrcn/index.html) (Département de psychologie et Institut _Brain and Mind_), dirigé par [M. Marc Joanisse](http://publish.uwo.ca/~marcj/), à l'Université Western, London, ON.  J'ai complété mon doctorat avec [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) à Ottawa, ON.
 
 Mes recherches se concentrent sur **le traitement de la parole, des aspects phonologiques et lexicaux chez les monolingues et les bilingues**. J'ai travaillé avec des participants adultes et enfants, et utilisé une variété de méthodes expérimentales comme l'EEG et les tests standard de perception, mais mon expertise principale est en **oculométrie** (_eye tracking_).
 
