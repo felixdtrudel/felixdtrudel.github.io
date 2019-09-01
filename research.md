@@ -33,7 +33,7 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 <h3>Publications</h3>
 
 
-**Desmeules-Trudel, F.**, & Zamuner, T. S. (2019). Gradient and categorical patterns of spoken word recognition and processing of phonetic details. _Attention, Perception, & Psychophysics_. [Contact me](mailto:fdesmeul@uwo.ca).
+**Desmeules-Trudel, F.**, & Zamuner, T. S. (2019). Gradient and categorical patterns of spoken word recognition and processing of phonetic details. _Attention, Perception, & Psychophysics_, _81_(5), 1654-1672. [Contact me](mailto:fdesmeul@uwo.ca).
 
 **Desmeules-Trudel, F.**, & Brunelle, M. (2018). Phonotactic restrictions condition the realization of vowel nasality and nasal coarticulation: Duration and airflow measurements in Québécois French and Brazilian Portuguese. _Journal of Phonetics_, _69_, 43-61. [Contact me](mailto:fdesmeul@uwo.ca).
   
