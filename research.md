@@ -11,8 +11,9 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 
 <h3>Interests</h3>
 - Psycholinguistics
-- Phonetics and phonology
-- First and second language acquisition
+- Phonetics and Phonology
+- First and Second Language Acquisition
+- Statistical and Computational Methods
 
 <h3>Specific projects</h3>
 
