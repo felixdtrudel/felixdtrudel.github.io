@@ -7,7 +7,7 @@ nav: true
 
 Currently, I am a postdoctoral researcher from the [Québec Research Funds - Society and Culture](http://www.frqsc.gouv.qc.ca/en/accueil) and [BrainsCAN program (CFREF)](https://brainscan.uwo.ca/index.html) in the [Language, Reading, and Cognitive Neuroscience Lab](http://www.psychology.uwo.ca/lrcn/index.html) (Department of Psychology and Brain and Mind Institute), directed by [Dr. Marc Joanisse](http://publish.uwo.ca/~marcj/), at Western University in London, ON. I completed my Ph.D. with [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) in Ottawa, ON.
 
-My research focuses on **speech, phonological, and lexical processing in monolinguals and bilinguals**. I have worked with adults and children using a variety of methods such as EEG and standard perception tests, but my main expertise is in **eye tracking**.
+My research focuses on **speech, phonological, and lexical processing in monolinguals and bilinguals**. I have worked with adults and children using a variety of methods such as EEG and standard perception tests, but my main expertise is in **eye tracking**. I use **mixed-effects regression methods** to **model** speech production, processing, and word learning.
 
 <img src="https://felixdtrudel.github.io/imageresources/VWP1.gif" alt="VWP1" width="160" height="120"> <img src="https://felixdtrudel.github.io/imageresources/VWP2.gif" alt="VWP2" width="160" height="120"> <img src="https://felixdtrudel.github.io/imageresources/VWP3.gif" alt="VWP3" width="160" height="120">
 
