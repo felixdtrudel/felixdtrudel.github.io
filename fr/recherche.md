@@ -13,6 +13,7 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 - Psycholinguistique
 - Phonétique et phonologie
 - Acquisition de la langue première et des langues secondes
+- Méthodes statistiques et computationnelles
 
 <h3>Projets spécifiques</h3>
 
