@@ -25,7 +25,7 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 
 - Coarticulation processing in monolingual and bilingual children
   - With [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) at the [CCLR](http://cclren.weebly.com/) and the [Living Lab](https://uottawalivinglab.weebly.com), and [Charlotte Moore](https://psychandneuro.duke.edu/people/charlotte-moore)
-  - See Desmeules-Trudel, Moore and Zamuner (in press; Zamuner, Moore and Desmeules-Trudel (2016) below
+  - See Desmeules-Trudel, Moore and Zamuner (in press); Zamuner, Moore and Desmeules-Trudel (2016) below
 
 - Nasal airflow of nasal and nasalized vowels in Canadian French and Brazilian Portuguese
   - With [Dr. Marc Brunelle](http://aix1.uottawa.ca/~mbrunell/) at the [SPL](http://artsites.uottawa.ca/spl-lss/en/)
