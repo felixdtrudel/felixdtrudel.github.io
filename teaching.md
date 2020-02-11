@@ -27,10 +27,6 @@ nav: true
   - LNG2000 Phonologie I [_Phonology I_] ([Dr. Carole Paradis](http://www.lli.ulaval.ca/le-departement/personnel/professeurs/paradis-carole/))
   - LNG3100 Phonologie II [_Phonology II_] ([Dr. Carole Paradis](http://www.lli.ulaval.ca/le-departement/personnel/professeurs/paradis-carole/))
  
-<h3>Workshops</h3>
-
-- Coming soon!
-
 [Back to homepage](https://felixdtrudel.github.io/index.html)
 
 En [français](https://felixdtrudel.github.io/fr/enseignement.html)
