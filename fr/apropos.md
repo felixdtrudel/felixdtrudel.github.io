@@ -15,8 +15,6 @@ Mes recherches se sont aussi concentrées sur la **production de la parole**, pl
 
 Je suis originaire de la ville de [Québec](https://fr.wikipedia.org/wiki/Québec_(ville)), une des plus vieilles villes francophones au Canada et la capitale de la province, qui se trouve à être la dernière ville fortifiée et toujours habitée en Amérique du Nord. J'ai complété mon baccalauréat et ma maîtrise à l'Université Laval au [Département de langues, linguistique et traduction](http://www.lli.ulaval.ca) avec [Mme Johanna-Pascale Roy](https://www.phonetique.ulaval.ca).
 
-Au cours des dernières années, j'ai eu la chance de pouvoir suivre des formations à São Paulo (Brésil), Nimègue (Pays-Bas), Edmonton (Canada), et Utrecht (Netherlands), en plus de voyages pour conférences à Moncton (Canada), Glasgow (Écosse), Ithaca (ÉUA), Toronto (Canada), New York (ÉUA), et Lisbonne (Portugal).
-
 Vous pouvez télécharger mon CV académique complet [ici](https://felixdtrudel.github.io/CVfr.pdf).
 
 [De retour à la page d'accueil](https://felixdtrudel.github.io/fr/index.html)
