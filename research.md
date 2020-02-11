@@ -25,7 +25,7 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 
 - Coarticulation processing in monolingual and bilingual children
   - With [Dr. Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) at the [CCLR](http://cclren.weebly.com/) and the [Living Lab](https://uottawalivinglab.weebly.com), and [Charlotte Moore](https://psychandneuro.duke.edu/people/charlotte-moore)
-  - See Zamuner, Moore and Desmeules-Trudel (2016) below
+  - See Desmeules-Trudel, Moore and Zamuner (in press; Zamuner, Moore and Desmeules-Trudel (2016) below
 
 - Nasal airflow of nasal and nasalized vowels in Canadian French and Brazilian Portuguese
   - With [Dr. Marc Brunelle](http://aix1.uottawa.ca/~mbrunell/) at the [SPL](http://artsites.uottawa.ca/spl-lss/en/)
@@ -33,6 +33,8 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 
 <h3>Publications</h3>
 
+
+**Desmeules-Trudel, F.**, Moore, C. E., & Zamuner, T. S. (in press). Monolingual and bilingual children's processing of coarticulation cues during spoken word recognition. _Journal of Child Language_.  [Contact me](mailto:fdesmeul@uwo.ca).
 
 **Desmeules-Trudel, F.**, & Zamuner, T. S. (2019). Gradient and categorical patterns of spoken word recognition and processing of phonetic details. _Attention, Perception, & Psychophysics_, _81_(5), 1654-1672. [Contact me](mailto:fdesmeul@uwo.ca).
 
