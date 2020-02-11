@@ -14,9 +14,6 @@
 *   [Association canadienne de linguistique](http://cla-acl.ca)
 *   [Association for Laboratory Phonology](https://labphon.org)
 
-<h3>Initiative sur la communication scientifique (qui vaut la peine d'y jeter un oeil!)</h3>
-*   [#barbarplots](https://barbarplots.github.io)
-
 [De retour à la page d'accueil](https://felixdtrudel.github.io/fr/index.html)
 
 In [English](https://felixdtrudel.github.io/resources.html)
