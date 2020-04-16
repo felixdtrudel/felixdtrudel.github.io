@@ -1,4 +1,9 @@
 <h1>Resources and links</h1>
+
+[OSF](https://osf.io/w8y3z/)
+[GitHub](https://github.com/felixdtrudel)
+[Google Scholar](https://scholar.google.ca/citations?user=lVueDsAAAAAJ&hl=en&oi=ao)
+
 <h3>Laboratory affiliation (current)</h3>
 *   [Language, Reading, and Cognitive Neuroscience Lab](http://www.psychology.uwo.ca/lrcn/index.html) 
 
