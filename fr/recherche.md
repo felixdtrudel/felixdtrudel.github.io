@@ -15,23 +15,9 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 - Acquisition de la langue première et des langues secondes
 - Méthodes statistiques et computationnelles
 
-<h3>Projets spécifiques</h3>
-
-- Apprentissage des mots et perception de la parole avec des voyelles non-natives
-  - Avec [M. Marc Joanisse](http://publish.uwo.ca/~marcj/) au [LRCN](http://www.psychology.uwo.ca/lrcn/)
-
-- Reconnaissance de mots et détails phonétiques en L1 et L2 (thèse de doctorat)
-  - Voir Desmeules-Trudel et Zamuner (2019) ci-bas
-
-- Traitement de la coarticulation chez les enfant en L1 et L2
-  - Avec [Mme Tania Zamuner](http://artsites.uottawa.ca/zamuner/?lang=en) au [CRLE](http://cclren.weebly.com/) et au [Labo en action](https://laboenactionuottawa.weebly.com), et [Charlotte Moore](https://psychandneuro.duke.edu/people/charlotte-moore)
-  - Voir Desmeules-Trudel, Moore et Zamuner (sous presse); Zamuner, Moore et Desmeules-Trudel (2016) ci-bas
-
-- Flux d'air nasal et nasalisation de voyelles en français canadien et en portugais brésilien
-  - Avec [M. Marc Brunelle](http://aix1.uottawa.ca/%7embrunell/indexF.htm) au [SPL](http://artsites.uottawa.ca/spl-lss/fr/)
-  - Voir Desmeules-Trudel et Brunelle (2018) ci-bas
-  
 <h3>Publications</h3>
+
+**Desmeules-Trudel, F.**, et Joanisse, M. (sous presse). Discrimination of four Canadian-French vowels by native Canadian-English listeners. _The Journal of the Acoustical Society of America Express Letters_.  [Me contacter](mailto:fdesmeul@uwo.ca). Projet [OSF](https://osf.io/5n9bw/) (matériel supplémentaire, données et scripts).
 
 **Desmeules-Trudel, F.**, Moore, C. E., et Zamuner, T. S. (sous presse). Monolingual and bilingual children's processing of coarticulation cues during spoken word recognition. _Journal of Child Language_.  [Me contacter](mailto:fdesmeul@uwo.ca).
 
@@ -46,6 +32,17 @@ Zamuner, T. S., Moore, C. E., et **Desmeules-Trudel, F.** (2016). Toddlers’ se
 **Desmeules-Trudel, F.** (2015). [Propriétés aérodynamiques des voyelles nasales et potentiellement nasalisées en français québécois](http://cla-acl.ca/wp-content/uploads/DesmeulesTrudel-2015.pdf). Dans Vinerte, S. (dir.), _Actes du congrès annuel 2015 de l'Association canadienne de linguistique_, Ottawa, ON.
 
 **Desmeules-Trudel, F.** (2015). [Perception of Québec French nasal vowels by Brazilian learners: A pilot study](http://www.lli.ulaval.ca/fileadmin/llt/fichiers/recherche/revue_LL/vol35/F.Desmeules-Trudel.pdf). _Langues et linguistique_, _35_, 40-54.
+
+<h3>Projets actuels</h3>
+
+- Apprentissage des mots et perception de la parole avec des voyelles non-natives
+  - Avec M. Marc Joanisse et Alyssa Yantsis au [LRCN](http://www.psychology.uwo.ca/lrcn/)
+
+- Traitement de la coarticulation et du sens des phrases chez les enfants d'âge préscolaire
+  - Avec Mme Tania Zamuner au [CRLE](http://cclren.weebly.com/) et au [Labo en action](https://laboenactionuottawa.weebly.com)
+
+- Traitement des mots accentués dans la petite enfance
+  - Avec Mme Tania Zamuner au [CRLE](http://cclren.weebly.com/) et au [Labo en action](https://laboenactionuottawa.weebly.com), et Mme Elizabeth Johnson au _[Child Language and Speech Studies Lab](https://www.utm.utoronto.ca/infant-child-centre/child-language-and-speech-studies-lab)_
 
 [De retour à la page d'accueil](https://felixdtrudel.github.io/fr/index.html)
 
