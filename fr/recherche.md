@@ -17,7 +17,8 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 
 <h3>Publications</h3>
 
-**Desmeules-Trudel, F.**, et Joanisse, M. (sous presse). Discrimination of four Canadian-French vowels by native Canadian-English listeners. _The Journal of the Acoustical Society of America Express Letters_.  [Me contacter](mailto:fdesmeul@uwo.ca). Projet [OSF](https://osf.io/5n9bw/) (matériel supplémentaire, données et scripts).
+**Desmeules-Trudel, F.**, et Joanisse, M. (sous presse). Discrimination of four Canadian-French vowels by native Canadian-English listeners. _The Journal of the Acoustical Society of America Express Letters_.  [Me contacter](mailto:fdesmeul@uwo.ca).
+- Projet [OSF](https://osf.io/5n9bw/) (matériel supplémentaire, données et scripts).
 
 **Desmeules-Trudel, F.**, Moore, C. E., et Zamuner, T. S. (sous presse). Monolingual and bilingual children's processing of coarticulation cues during spoken word recognition. _Journal of Child Language_.  [Me contacter](mailto:fdesmeul@uwo.ca).
 
