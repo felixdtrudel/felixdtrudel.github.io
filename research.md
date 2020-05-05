@@ -17,10 +17,10 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 
 <h3>Publications</h3>
 
-**Desmeules-Trudel, F.**, & Joanisse, M. (in press). Discrimination of four Canadian-French vowels by native Canadian-English listeners. _The Journal of the Acoustical Society of America Express Letters_.  [Contact me](mailto:fdesmeul@uwo.ca).
-- [OSF](https://osf.io/5n9bw/) project (supplementary materials, data and scripts).
+**Desmeules-Trudel, F.**, Moore, C. E., & Zamuner, T. S. (in press). Monolingual and bilingual children's processing of coarticulation cues during spoken word recognition. _Journal of Child Language_. [Contact me](mailto:fdesmeul@uwo.ca).
 
-**Desmeules-Trudel, F.**, Moore, C. E., & Zamuner, T. S. (in press). Monolingual and bilingual children's processing of coarticulation cues during spoken word recognition. _Journal of Child Language_.  [Contact me](mailto:fdesmeul@uwo.ca).
+**Desmeules-Trudel, F.**, & Joanisse, M. (2020). [Discrimination of four Canadian-French vowels by native Canadian-English listeners](https://asa.scitation.org/doi/10.1121/10.0001180?fbclid=IwAR2fE5Wap0GTQ0_zLg6IDvBPe8kb632yY9GvgDUS1GOeLahk3P-c8qjKgxM). _The Journal of the Acoustical Society of America_, _147_(5), EL391-EL395. [Contact me](mailto:fdesmeul@uwo.ca).
+- [OSF](https://osf.io/5n9bw/) project (supplementary materials, data and scripts).
 
 **Desmeules-Trudel, F.**, & Zamuner, T. S. (2019). Gradient and categorical patterns of spoken word recognition and processing of phonetic details. _Attention, Perception, & Psychophysics_, _81_(5), 1654-1672. [Contact me](mailto:fdesmeul@uwo.ca).
 
