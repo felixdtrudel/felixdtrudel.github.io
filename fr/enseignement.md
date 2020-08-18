@@ -7,6 +7,8 @@ nav: true
 
 <h3>Cours enseignés</h3>
 
+- PSY315H5F Language Development
+  - Automne 2020, Université de Toronto Mississauga
 - LIN3725 Phonétique intermédiaire
   - Automne 2017, uOttawa
 - LIN3750 Psycholinguistique
