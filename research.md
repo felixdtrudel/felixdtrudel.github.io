@@ -41,13 +41,13 @@ Zamuner, T. S., Moore, C. E., & **Desmeules-Trudel, F.** (2016). Toddlers’ sen
   - With Dr. Elizabeth Johnson ([C.L.A.S.S. Lab](https://www.utm.utoronto.ca/infant-child-centre/child-language-and-speech-studies-lab)) and Dr. Craig Chambers ([PAL Lab](https://www.psycholinguistics.ca/pal))
 
 - Word learning and speech perception with non-native vowels
-  - With Dr. Marc Joanisse and Alyssa Yantsis at the [LRCN](http://www.psychology.uwo.ca/lrcn/)
+  - With Dr. Marc Joanisse and Alyssa Yantsis ([LRCN](http://www.psychology.uwo.ca/lrcn/))
 
 - Coarticulation processing and sentence meaning in pre-school children
-  - With Dr. Tania Zamuner at the [CCLR](http://cclren.weebly.com/) and the [Living Lab](https://uottawalivinglab.weebly.com)
+  - With Dr. Tania Zamuner ([CCLR](http://cclren.weebly.com/) and [Living Lab](https://uottawalivinglab.weebly.com))
 
 - Processing non-native accented words in toddlers
-  - With Dr. Tania Zamuner at the [CCLR](http://cclren.weebly.com/) and the [Living Lab](https://uottawalivinglab.weebly.com), and Dr. Elizabeth Johnson at the [Child Language and Speech Studies Lab](https://www.utm.utoronto.ca/infant-child-centre/child-language-and-speech-studies-lab)
+  - With Dr. Tania Zamuner ([CCLR](http://cclren.weebly.com/) and [Living Lab](https://uottawalivinglab.weebly.com)), and Dr. Elizabeth Johnson ([C.L.A.S.S. Lab](https://www.utm.utoronto.ca/infant-child-centre/child-language-and-speech-studies-lab))
 
 [Back to homepage](https://felixdtrudel.github.io/index.html)
 
