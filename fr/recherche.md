@@ -44,10 +44,10 @@ Zamuner, T. S., Moore, C. E., et **Desmeules-Trudel, F.** (2016). Toddlers’ se
   - Avec M. Marc Joanisse et Alyssa Yantsis ([LRCN](http://www.psychology.uwo.ca/lrcn/))
 
 - Traitement de la coarticulation et du sens des phrases chez les enfants d'âge préscolaire
-  - Avec Mme Tania Zamuner ([CRLE](http://cclren.weebly.com/) et [Labo en action](https://laboenactionuottawa.weebly.com))
+  - Avec Mme Tania Zamuner ([CRLE](https://taniazamuner.weebly.com) et [Labo en action](https://laboenactionuottawa.weebly.com))
 
 - Traitement des mots accentués dans la petite enfance
-  - Avec Mme Tania Zamuner ([CRLE](http://cclren.weebly.com/) et [Labo en action](https://laboenactionuottawa.weebly.com)), et Mme Elizabeth Johnson (_[C.L.A.S.S. Lab](https://www.utm.utoronto.ca/infant-child-centre/child-language-and-speech-studies-lab)_)
+  - Avec Mme Tania Zamuner ([CRLE](https://taniazamuner.weebly.com) et [Labo en action](https://laboenactionuottawa.weebly.com)), et Mme Elizabeth Johnson (_[C.L.A.S.S. Lab](https://www.utm.utoronto.ca/infant-child-centre/child-language-and-speech-studies-lab)_)
 
 [De retour à la page d'accueil](https://felixdtrudel.github.io/fr/index.html)
 
