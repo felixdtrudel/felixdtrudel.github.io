@@ -6,8 +6,10 @@
 
 [Google Scholar](https://scholar.google.ca/citations?user=lVueDsAAAAAJ&hl=en&oi=ao)
 
-<h3>Laboratory affiliation (current)</h3>
-*   [Language, Reading, and Cognitive Neuroscience Lab](http://www.psychology.uwo.ca/lrcn/index.html) 
+<h3>Laboratory affiliations (current)</h3>
+*   [Child Language and Speech Studies Lab](https://www.utm.utoronto.ca/infant-child-centre/child-language-and-speech-studies-lab)
+*   [Perception, Action, and Language Lab](https://www.psycholinguistics.ca/pal)
+*   [Language, Reading, and Cognitive Neuroscience Lab](http://www.psychology.uwo.ca/lrcn/index.html) (Visiting postdoc position)
 
 <h3>Laboratory affiliations (former)</h3>
 *   [Centre for Child Language Research](http://artsites.uottawa.ca/cclr/en/)
