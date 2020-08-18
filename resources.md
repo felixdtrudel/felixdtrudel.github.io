@@ -12,7 +12,7 @@
 *   [Language, Reading, and Cognitive Neuroscience Lab](http://www.psychology.uwo.ca/lrcn/index.html) (Visiting postdoc position)
 
 <h3>Laboratory affiliations (former)</h3>
-*   [Centre for Child Language Research](http://artsites.uottawa.ca/cclr/en/)
+*   [Centre for Child Language Research](https://taniazamuner.weebly.com)
 *   [uOttawa Living Lab](https://uottawalivinglab.weebly.com)
 *   [Sound Patterns Laboratory](http://artsites.uottawa.ca/spl-lss/en/)
 *   [ERPLing Laboratory](http://artsites.uottawa.ca/erplinglab/en/)
