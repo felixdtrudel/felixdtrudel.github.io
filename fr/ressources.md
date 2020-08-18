@@ -20,6 +20,7 @@
 *   [CoPho Project](http://www.lli.ulaval.ca/recherche/groupes-et-laboratoires/projet-copho-contraintes-en-phonologie/)
 
 <h3>Associations</h3>
+*   [Psychonomic Society](https://www.psychonomic.org)
 *   [Association canadienne de linguistique](http://cla-acl.ca)
 *   [Association for Laboratory Phonology](https://labphon.org)
 
