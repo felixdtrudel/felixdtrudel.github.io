@@ -12,7 +12,7 @@
 *   [Laboratoire _Language, Reading, and Cognitive Neuroscience_](http://www.psychology.uwo.ca/lrcn/index.html) (Postdoc visiteur)
 
 <h3>Affiliations (passées)</h3>
-*   [Centre de recherche sur le langage des enfants](http://artsites.uottawa.ca/cclr/fr/)
+*   [Centre de recherche sur le langage des enfants](https://taniazamuner.weebly.com)
 *   [Labo en action uOttawa](https://laboenactionuottawa.weebly.com)
 *   [Laboratoire des structures sonores](http://artsites.uottawa.ca/spl-lss/fr/)
 *   [Laboratoire PÉLing](http://artsites.uottawa.ca/erplinglab/en/)
