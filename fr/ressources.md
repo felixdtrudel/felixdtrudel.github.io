@@ -6,7 +6,7 @@
 
 [Google Scholar](https://scholar.google.ca/citations?user=lVueDsAAAAAJ&hl=en&oi=ao)
 
-<h3>Affiliation (courante)</h3>
+<h3>Affiliations (courantes)</h3>
 *   [Laboratoire _Child Language and Speech Studies_](https://www.utm.utoronto.ca/infant-child-centre/child-language-and-speech-studies-lab)
 *   [Laboratoire _Perception, Action, and Language_](https://www.psycholinguistics.ca/pal)
 *   [Laboratoire _Language, Reading, and Cognitive Neuroscience_](http://www.psychology.uwo.ca/lrcn/index.html) (Postdoc visiteur)
