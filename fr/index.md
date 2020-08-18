@@ -4,9 +4,9 @@ title: Bienvenue
 
 # Bienvenue
 
-Vous trouverez de l'information à propos de moi et de mes intérêts de recherche, de mes expériences en enseignement et en formation, ainsi que des liens intéressants.
+Vous trouverez de l'information à propos de moi et de mes intérêts de recherche, de mes expériences en enseignement, ainsi que des liens intéressants.
 
-N'hésitez pas à [me contacter](mailto:fdesmeul@uwo.ca)!
+N'hésitez pas à [me contacter](mailto:felix.desmeules.trudel@utoronto.ca)!
 
 In [English](https://felixdtrudel.github.io)
 
