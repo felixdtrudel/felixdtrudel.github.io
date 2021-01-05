@@ -18,7 +18,7 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 
 <h3>Publications</h3>
 
-**Desmeules-Trudel, F.**, Moore, C. E., et Zamuner, T. S. (2020). Monolingual and bilingual children's processing of coarticulation cues during spoken word recognition. _Journal of Child Language_. FirstView. [Me contacter](mailto:felix.desmeules.trudel@utoronto.ca).
+**Desmeules-Trudel, F.**, Moore, C. E., et Zamuner, T. S. (2020). Monolingual and bilingual children's processing of coarticulation cues during spoken word recognition. _Journal of Child Language_. _47_(6), 1189-1206. [Me contacter](mailto:felix.desmeules.trudel@utoronto.ca).
 
 **Desmeules-Trudel, F.**, & Joanisse, M. (2020). [Discrimination of four Canadian-French vowels by native Canadian-English listeners](https://asa.scitation.org/doi/10.1121/10.0001180?fbclid=IwAR2fE5Wap0GTQ0_zLg6IDvBPe8kb632yY9GvgDUS1GOeLahk3P-c8qjKgxM). _The Journal of the Acoustical Society of America_, _147_(5), EL391-EL395. [Me contacter](mailto:felix.desmeules.trudel@utoronto.ca).
 - Projet [OSF](https://osf.io/5n9bw/) (matériel supplémentaire, données et scripts).
