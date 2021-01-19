@@ -14,7 +14,7 @@ Une liste complète et détaillée de mes présentations se retrouve sur mon [CV
 - Acquisition des langues secondes et bilinguisme
 - Phonétique, phonologie et lexique
 - Développement du langage
-- Méthodes statistiques et computationnelles
+- Méthodes expérimentales et quantitatives
 
 <h3>Publications</h3>
 
