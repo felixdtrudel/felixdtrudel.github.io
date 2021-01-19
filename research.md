@@ -14,7 +14,7 @@ A complete list of my presentations can be found on my [CV](https://felixdtrudel
 - Second Language Acquisition and Bilingualism
 - Phonetics, Phonology, and the Lexicon
 - Language Development
-- Statistical and Computational Methods
+- Experimental and Quantitative Methods
 
 <h3>Publications</h3>
 
