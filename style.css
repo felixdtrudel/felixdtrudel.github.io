@@ -41,7 +41,7 @@ h5,
 h6 {
   line-height: 1;
   text-rendering: optimizeLegibility; /*  voodoo to enable ligatures and kerning | https://developer.mozilla.org/en-US/docs/CSS/text-rendering */
-  margin-top: 0;
+  margin-top: 2rem;
   margin-bottom: 2rem;
   font-weight: 300;
 }
